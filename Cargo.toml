@@ -10,7 +10,7 @@ version = "0.0.1"
 edition = "2024"
 authors = ["Kyle Hazen <kyle@union.ai>"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/kylehazen/sais-rs"
+repository = "https://github.com/k1sauce/sais-rs"
 rust-version = "1.85"
 
 [workspace.dependencies]

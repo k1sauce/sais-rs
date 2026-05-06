@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+
+# generated test corpora (regenerated deterministically at test time)
+validate/fixtures/*.bin
+validate/fixtures/*.txt
+!validate/fixtures/README.md
