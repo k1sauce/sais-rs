@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": [
+    "rustup@latest",
+    "clang@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "rustup default stable >/dev/null 2>&1 || rustup toolchain install stable"
+    ]
+  }
+}

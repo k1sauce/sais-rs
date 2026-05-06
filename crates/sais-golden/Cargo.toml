@@ -1,0 +1,14 @@
+[package]
+name = "sais-golden"
+publish = false
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+rust-version.workspace = true
+description = "Validation harness for sais-rs — golden tests against the C library via libsais-sys. Not published."
+
+[dependencies]
+sais-rs.workspace = true
+libsais-sys.workspace = true
+anyhow.workspace = true

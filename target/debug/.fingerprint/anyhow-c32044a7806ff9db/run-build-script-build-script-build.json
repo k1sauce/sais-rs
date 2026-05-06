@@ -1,0 +1,1 @@
+{"rustc":14544077683221498811,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[12478428894219133322,"build_script_build",false,1087875707218678268]],"local":[{"RerunIfChanged":{"output":"debug/build/anyhow-c32044a7806ff9db/output","paths":["src/nightly.rs"]}}],"rustflags":["-C","target-cpu=native"],"config":0,"compile_kind":0}

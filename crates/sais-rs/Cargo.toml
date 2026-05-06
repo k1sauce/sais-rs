@@ -1,0 +1,16 @@
+[package]
+name = "sais-rs"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+description = "Pure-Rust SA-IS suffix array construction, BWT, and inverse BWT with rayon parallelism. Output byte-compatible with libsais."
+readme = "readme.md"
+keywords = ["suffix-array", "sais", "bwt", "string", "bioinformatics"]
+categories = ["algorithms", "data-structures", "text-processing"]
+
+[dependencies]
+rayon.workspace = true
+thiserror.workspace = true

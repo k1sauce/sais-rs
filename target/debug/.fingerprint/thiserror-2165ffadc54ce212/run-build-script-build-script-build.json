@@ -1,0 +1,1 @@
+{"rustc":14544077683221498811,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[2448563160050429386,"build_script_build",false,4433796589477776483]],"local":[{"RerunIfChanged":{"output":"debug/build/thiserror-2165ffadc54ce212/output","paths":["build/probe.rs"]}}],"rustflags":["-C","target-cpu=native"],"config":0,"compile_kind":0}
